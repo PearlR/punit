@@ -1,0 +1,17 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  background-color: yellow; }
+  body h1 {
+    font-family: 'Fredoka One', cursive;
+    font-size: 40pt; }
+  body p {
+    font-family: 'Oswald', sans-serif; }
+
+a {
+  color: #00B7FF; }
+
+label, legend, input.button-primary {
+  margin: 1em 0; }
+
+/*# sourceMappingURL=style.css.map */
